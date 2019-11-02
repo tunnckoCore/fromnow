@@ -1,4 +1,4 @@
-import index from './src/index';
+import index from './src/index.js';
 
 export type DateOkay = Date | string | number;
 
